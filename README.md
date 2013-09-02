@@ -12,6 +12,7 @@ The project provides an automated method for analyzing archive sites' snapshots,
 <a href="http://www.hacktics.com" target="_blank"><img src="http://diviner.googlecode.com/files/hacktics_logo.jpg" /></a></p>
 
 <hr/>
+<img src="https://payload-manager.googlecode.com/files/dejavu.png" alt="deja-vu in action"><br>
 
 <p>
 <h2>Requirements:</h2>
@@ -32,7 +33,7 @@ The application can be used in the following manner:
 </p>
 
 <p>
-<h2>Quickstart - Installing and Using the deja-vu Extension</h2>
+<h2>Installing and Using the deja-vu Extension</h2>
 In order to work with the deja-vu extension, please follow these instructions:
 <ol>
 <li> Install ZAP from the following link:
